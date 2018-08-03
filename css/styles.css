@@ -15,7 +15,6 @@ h1, h2, h3 {
 }
 
 .code-projects-container  {
-  background-color: lightgrey;
   font-family: sans-serif;
   border-radius: 5px;
 }
@@ -24,4 +23,18 @@ h1, h2, h3 {
   width: 33.33%;
   float: right;
   background-color: lightgrey;
+}
+
+.row  {
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.col-md-6 {
+  width: 50%;
+  float: left;
+}
+
+#education #work {
+  text-align: left;
 }
