@@ -11,7 +11,7 @@ _The purpose of this website is to act as a homepage for my coding Portfolio. It
 ## Setup/Installation Requirements
 
 * _open website in text editor_
-* _open in pages to see the full website_
+* _open in pages to see the full website (https://connor85.github.io/Connors-Portfolio/)_
 
 
 ## Known Bugs
