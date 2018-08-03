@@ -28,7 +28,7 @@ h1, h2, h3 {
   margin-top: 15px;
 }
 
-.code-projects-container  {
+.code-projects  {
   font-family: sans-serif;
   border-radius: 5px;
   margin-bottom: 30px;
@@ -65,6 +65,7 @@ span  {
   background-color: lightgrey;
   padding-top: 15px;
   padding-bottom: 15px;
+  margin-top: 30px;
   width: 100%;
 }
 
@@ -84,4 +85,8 @@ img {
 
 .about-me {
   padding: 0;
+}
+
+.code-Projects  {
+
 }
