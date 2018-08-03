@@ -64,6 +64,7 @@ span  {
 .col-md-12  {
   background-color: lightgrey;
   padding-top: 15px;
+  padding-bottom: 15px;
   width: 100%;
 }
 
@@ -74,6 +75,13 @@ img {
     margin-right: 10px;
 }
 
-ol  {
+.Activites  {
   font-size: 20px;
+  columns: 3;
+  list-style-type: none;
+  text-align: left;
+}
+
+.about-me {
+  padding: 0;
 }
