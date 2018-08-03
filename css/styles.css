@@ -1,3 +1,27 @@
 body {
   background-color: #efb275;
 }
+
+.heading-container {
+  background-color: lightgrey;
+  font-family: sans-serif;
+  border-radius: 5px;
+}
+
+h1, h2, h3 {
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.code-projects-container  {
+  background-color: lightgrey;
+  font-family: sans-serif;
+  border-radius: 5px;
+}
+
+.col-md-4 {
+  width: 33.33%;
+  float: right;
+  background-color: lightgrey;
+}
