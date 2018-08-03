@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    font-family: sans-serif;
 }
 
 body {
@@ -85,4 +86,8 @@ img {
 
 .about-me {
   padding: 0;
+}
+
+.container  {
+  margin-bottom: 30px;
 }
